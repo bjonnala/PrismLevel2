@@ -1,0 +1,7 @@
+C:\Users\rzj\source\repos\PrismLevel2\PrismLevel2\bin\Debug\PrismLevel2.exe.config
+C:\Users\rzj\source\repos\PrismLevel2\PrismLevel2\bin\Debug\PrismLevel2.exe
+C:\Users\rzj\source\repos\PrismLevel2\PrismLevel2\bin\Debug\PrismLevel2.pdb
+C:\Users\rzj\source\repos\PrismLevel2\PrismLevel2\obj\Debug\PrismLevel2.csprojAssemblyReference.cache
+C:\Users\rzj\source\repos\PrismLevel2\PrismLevel2\obj\Debug\PrismLevel2.csproj.CoreCompileInputs.cache
+C:\Users\rzj\source\repos\PrismLevel2\PrismLevel2\obj\Debug\PrismLevel2.exe
+C:\Users\rzj\source\repos\PrismLevel2\PrismLevel2\obj\Debug\PrismLevel2.pdb
