@@ -27,7 +27,7 @@ namespace PrismLevel2
             apartment.floors = floors;
             apartment.elevators = elevators;
             Console.WriteLine(elevators[1].Operate(1, "up", 5, floors, 1));
-
+            Console.WriteLine(elevators[1].Operate(2, "down", 1, floors, 5));
             Console.ReadKey();
         }
     }
